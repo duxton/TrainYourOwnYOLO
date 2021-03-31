@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1e80e77e548c7ef9cbb647940ebdc9a8",
+        "name": "15_00009_00002.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/15_00009_00002.jpg",
+        "size": {
+            "width": 35,
+            "height": 35
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "2m3bFoLuw",
+            "type": "RECTANGLE",
+            "tags": [
+                "No vehicles"
+            ],
+            "boundingBox": {
+                "height": 19.916788009627968,
+                "width": 19.440107491700715,
+                "left": 7.919423119892748,
+                "top": 7.437961722540539
+            },
+            "points": [
+                {
+                    "x": 7.919423119892748,
+                    "y": 7.437961722540539
+                },
+                {
+                    "x": 27.359530611593463,
+                    "y": 7.437961722540539
+                },
+                {
+                    "x": 27.359530611593463,
+                    "y": 27.35474973216851
+                },
+                {
+                    "x": 7.919423119892748,
+                    "y": 27.35474973216851
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

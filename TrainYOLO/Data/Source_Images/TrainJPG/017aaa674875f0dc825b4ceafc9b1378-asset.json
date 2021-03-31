@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "017aaa674875f0dc825b4ceafc9b1378",
+        "name": "32_00001_00005.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/32_00001_00005.jpg",
+        "size": {
+            "width": 30,
+            "height": 30
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "MwAuYYXmN",
+            "type": "RECTANGLE",
+            "tags": [
+                "End of all speed and passing limits"
+            ],
+            "boundingBox": {
+                "height": 17.739494409454004,
+                "width": 20.676843723067226,
+                "left": 6.332810180788751,
+                "top": 6.888868197479092
+            },
+            "points": [
+                {
+                    "x": 6.332810180788751,
+                    "y": 6.888868197479092
+                },
+                {
+                    "x": 27.009653903855977,
+                    "y": 6.888868197479092
+                },
+                {
+                    "x": 27.009653903855977,
+                    "y": 24.628362606933095
+                },
+                {
+                    "x": 6.332810180788751,
+                    "y": 24.628362606933095
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "592dbd51b46b9258fa28890874c7e736",
+        "name": "40_00006_00001.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/40_00006_00001.jpg",
+        "size": {
+            "width": 35,
+            "height": 35
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "sgW-gCreL",
+            "type": "RECTANGLE",
+            "tags": [
+                "Roundabout mandatory"
+            ],
+            "boundingBox": {
+                "height": 22.83892763038456,
+                "width": 26.519797834604827,
+                "left": 6.3882193794289455,
+                "top": 5.865904483658788
+            },
+            "points": [
+                {
+                    "x": 6.3882193794289455,
+                    "y": 5.865904483658788
+                },
+                {
+                    "x": 32.90801721403378,
+                    "y": 5.865904483658788
+                },
+                {
+                    "x": 32.90801721403378,
+                    "y": 28.70483211404335
+                },
+                {
+                    "x": 6.3882193794289455,
+                    "y": 28.70483211404335
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

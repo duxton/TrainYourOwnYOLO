@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6e36eb6dfe2ccf922505a2f4b633a8e1",
+        "name": "05_00002_00014.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/05_00002_00014.jpg",
+        "size": {
+            "width": 35,
+            "height": 34
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VYalva7Is",
+            "type": "RECTANGLE",
+            "tags": [
+                "Speed limit (80km/h)"
+            ],
+            "boundingBox": {
+                "height": 22.46109267518274,
+                "width": 25.029165479871963,
+                "left": 6.1147308349609375,
+                "top": 5.762218564961855
+            },
+            "points": [
+                {
+                    "x": 6.1147308349609375,
+                    "y": 5.762218564961855
+                },
+                {
+                    "x": 31.1438963148329,
+                    "y": 5.762218564961855
+                },
+                {
+                    "x": 31.1438963148329,
+                    "y": 28.223311240144596
+                },
+                {
+                    "x": 6.1147308349609375,
+                    "y": 28.223311240144596
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

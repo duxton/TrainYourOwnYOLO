@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "04365c4b0ddccf034987a697fd9b3529",
+        "name": "29_00004_00016.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/29_00004_00016.jpg",
+        "size": {
+            "width": 53,
+            "height": 48
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "oO9pc8jca",
+            "type": "RECTANGLE",
+            "tags": [
+                "Bicycles crossing"
+            ],
+            "boundingBox": {
+                "height": 35.154568945911,
+                "width": 38.33818416965989,
+                "left": 8.68627822410167,
+                "top": 6.251695019231997
+            },
+            "points": [
+                {
+                    "x": 8.68627822410167,
+                    "y": 6.251695019231997
+                },
+                {
+                    "x": 47.02446239376156,
+                    "y": 6.251695019231997
+                },
+                {
+                    "x": 47.02446239376156,
+                    "y": 41.406263965143005
+                },
+                {
+                    "x": 8.68627822410167,
+                    "y": 41.406263965143005
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

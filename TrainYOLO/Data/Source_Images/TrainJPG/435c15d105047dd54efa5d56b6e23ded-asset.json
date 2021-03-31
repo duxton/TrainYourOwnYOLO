@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "435c15d105047dd54efa5d56b6e23ded",
+        "name": "31_00013_00002.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/31_00013_00002.jpg",
+        "size": {
+            "width": 26,
+            "height": 28
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "mCJTVOc1k",
+            "type": "RECTANGLE",
+            "tags": [
+                "Wild animals crossing"
+            ],
+            "boundingBox": {
+                "height": 18.370992003958122,
+                "width": 19.24829517863896,
+                "left": 2.906180840251994,
+                "top": 6.151781652994127
+            },
+            "points": [
+                {
+                    "x": 2.906180840251994,
+                    "y": 6.151781652994127
+                },
+                {
+                    "x": 22.154476018890954,
+                    "y": 6.151781652994127
+                },
+                {
+                    "x": 22.154476018890954,
+                    "y": 24.52277365695225
+                },
+                {
+                    "x": 2.906180840251994,
+                    "y": 24.52277365695225
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

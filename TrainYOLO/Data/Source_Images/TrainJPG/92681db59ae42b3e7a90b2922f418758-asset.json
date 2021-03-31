@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "92681db59ae42b3e7a90b2922f418758",
+        "name": "23_00008_00020.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/23_00008_00020.jpg",
+        "size": {
+            "width": 81,
+            "height": 72
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "LYvmGqF2x",
+            "type": "RECTANGLE",
+            "tags": [
+                "Slippery road"
+            ],
+            "boundingBox": {
+                "height": 49.11316229690692,
+                "width": 54.13127464689416,
+                "left": 12.76281887958745,
+                "top": 15.052578015273877
+            },
+            "points": [
+                {
+                    "x": 12.76281887958745,
+                    "y": 15.052578015273877
+                },
+                {
+                    "x": 66.89409352648161,
+                    "y": 15.052578015273877
+                },
+                {
+                    "x": 66.89409352648161,
+                    "y": 64.1657403121808
+                },
+                {
+                    "x": 12.76281887958745,
+                    "y": 64.1657403121808
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

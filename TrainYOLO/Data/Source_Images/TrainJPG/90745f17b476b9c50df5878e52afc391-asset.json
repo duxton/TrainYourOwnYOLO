@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "90745f17b476b9c50df5878e52afc391",
+        "name": "01_00020_00026.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/01_00020_00026.jpg",
+        "size": {
+            "width": 79,
+            "height": 80
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "4hUywzBvJ",
+            "type": "RECTANGLE",
+            "tags": [
+                "Speed limit (30km/h)"
+            ],
+            "boundingBox": {
+                "height": 71.06236708176391,
+                "width": 63.17291726839209,
+                "left": 9.522142633163941,
+                "top": 3.9419321872605977
+            },
+            "points": [
+                {
+                    "x": 9.522142633163941,
+                    "y": 3.9419321872605977
+                },
+                {
+                    "x": 72.69505990155604,
+                    "y": 3.9419321872605977
+                },
+                {
+                    "x": 72.69505990155604,
+                    "y": 75.00429926902451
+                },
+                {
+                    "x": 9.522142633163941,
+                    "y": 75.00429926902451
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9cec346d3856076c9dc9f27143611b2c",
+        "name": "34_00005_00002.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/34_00005_00002.jpg",
+        "size": {
+            "width": 28,
+            "height": 29
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "M_DnxWWaP",
+            "type": "RECTANGLE",
+            "tags": [
+                "Turn left ahead"
+            ],
+            "boundingBox": {
+                "height": 19.050054875530677,
+                "width": 18.970827907986113,
+                "left": 4.303014684606482,
+                "top": 5.950653793132342
+            },
+            "points": [
+                {
+                    "x": 4.303014684606482,
+                    "y": 5.950653793132342
+                },
+                {
+                    "x": 23.273842592592594,
+                    "y": 5.950653793132342
+                },
+                {
+                    "x": 23.273842592592594,
+                    "y": 25.000708668663016
+                },
+                {
+                    "x": 4.303014684606482,
+                    "y": 25.000708668663016
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

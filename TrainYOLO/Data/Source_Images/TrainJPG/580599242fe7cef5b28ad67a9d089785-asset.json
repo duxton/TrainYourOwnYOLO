@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "580599242fe7cef5b28ad67a9d089785",
+        "name": "21_00000_00022.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/21_00000_00022.jpg",
+        "size": {
+            "width": 77,
+            "height": 73
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "XTvOyRDOx",
+            "type": "RECTANGLE",
+            "tags": [
+                "Double curve"
+            ],
+            "boundingBox": {
+                "height": 55.655872629416976,
+                "width": 62.95137914637283,
+                "left": 9.454827839499638,
+                "top": 11.037502955124012
+            },
+            "points": [
+                {
+                    "x": 9.454827839499638,
+                    "y": 11.037502955124012
+                },
+                {
+                    "x": 72.40620698587246,
+                    "y": 11.037502955124012
+                },
+                {
+                    "x": 72.40620698587246,
+                    "y": 66.69337558454099
+                },
+                {
+                    "x": 9.454827839499638,
+                    "y": 66.69337558454099
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

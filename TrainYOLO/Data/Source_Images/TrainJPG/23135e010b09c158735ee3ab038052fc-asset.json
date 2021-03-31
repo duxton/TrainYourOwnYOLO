@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "23135e010b09c158735ee3ab038052fc",
+        "name": "13_00001_00013.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/13_00001_00013.jpg",
+        "size": {
+            "width": 40,
+            "height": 42
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "45LTKH2Dy",
+            "type": "RECTANGLE",
+            "tags": [
+                "Yield"
+            ],
+            "boundingBox": {
+                "height": 24.489207126512227,
+                "width": 26.57984131907189,
+                "left": 8.615167314914164,
+                "top": 10.058831967908102
+            },
+            "points": [
+                {
+                    "x": 8.615167314914164,
+                    "y": 10.058831967908102
+                },
+                {
+                    "x": 35.19500863398605,
+                    "y": 10.058831967908102
+                },
+                {
+                    "x": 35.19500863398605,
+                    "y": 34.54803909442033
+                },
+                {
+                    "x": 8.615167314914164,
+                    "y": 34.54803909442033
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

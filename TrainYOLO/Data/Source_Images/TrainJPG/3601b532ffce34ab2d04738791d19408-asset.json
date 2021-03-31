@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3601b532ffce34ab2d04738791d19408",
+        "name": "24_00000_00029.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/24_00000_00029.jpg",
+        "size": {
+            "width": 164,
+            "height": 148
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_obpQRWcm",
+            "type": "RECTANGLE",
+            "tags": [
+                "Road narrows on the right"
+            ],
+            "boundingBox": {
+                "height": 125.15715149985635,
+                "width": 129.62543157762096,
+                "left": 13.67738065236175,
+                "top": 11.408806369302221
+            },
+            "points": [
+                {
+                    "x": 13.67738065236175,
+                    "y": 11.408806369302221
+                },
+                {
+                    "x": 143.30281222998272,
+                    "y": 11.408806369302221
+                },
+                {
+                    "x": 143.30281222998272,
+                    "y": 136.56595786915858
+                },
+                {
+                    "x": 13.67738065236175,
+                    "y": 136.56595786915858
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2c7ec4f9a3b31ed201c0c910b1a4d2f6",
+        "name": "36_00003_00019.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/36_00003_00019.jpg",
+        "size": {
+            "width": 45,
+            "height": 44
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "NkYdadDSY",
+            "type": "RECTANGLE",
+            "tags": [
+                "Go straight or right"
+            ],
+            "boundingBox": {
+                "height": 35.6071900785639,
+                "width": 36.005028906640234,
+                "left": 6.13308200588474,
+                "top": 3.9539657764220504
+            },
+            "points": [
+                {
+                    "x": 6.13308200588474,
+                    "y": 3.9539657764220504
+                },
+                {
+                    "x": 42.13811091252497,
+                    "y": 3.9539657764220504
+                },
+                {
+                    "x": 42.13811091252497,
+                    "y": 39.561155854985955
+                },
+                {
+                    "x": 6.13308200588474,
+                    "y": 39.561155854985955
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

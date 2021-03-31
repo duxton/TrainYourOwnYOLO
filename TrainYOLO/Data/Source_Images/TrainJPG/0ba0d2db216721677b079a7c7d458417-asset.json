@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "0ba0d2db216721677b079a7c7d458417",
+        "name": "41_00006_00028.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/41_00006_00028.jpg",
+        "size": {
+            "width": 87,
+            "height": 93
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "TW43P3-2U",
+            "type": "RECTANGLE",
+            "tags": [
+                "End of no passing"
+            ],
+            "boundingBox": {
+                "height": 81.35233260905778,
+                "width": 74.32822921286504,
+                "left": 7.856927330316935,
+                "top": 7.58548771640984
+            },
+            "points": [
+                {
+                    "x": 7.856927330316935,
+                    "y": 7.58548771640984
+                },
+                {
+                    "x": 82.18515654318198,
+                    "y": 7.58548771640984
+                },
+                {
+                    "x": 82.18515654318198,
+                    "y": 88.93782032546763
+                },
+                {
+                    "x": 7.856927330316935,
+                    "y": 88.93782032546763
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

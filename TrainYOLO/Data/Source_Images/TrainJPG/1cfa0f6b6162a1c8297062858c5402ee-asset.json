@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1cfa0f6b6162a1c8297062858c5402ee",
+        "name": "15_00001_00019.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/15_00001_00019.jpg",
+        "size": {
+            "width": 45,
+            "height": 97
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "Mtltu2-oC",
+            "type": "RECTANGLE",
+            "tags": [
+                "No vehicles"
+            ],
+            "boundingBox": {
+                "height": 77.66262058339883,
+                "width": 33.032754906473706,
+                "left": 6.623691105107379,
+                "top": 7.65392469458731
+            },
+            "points": [
+                {
+                    "x": 6.623691105107379,
+                    "y": 7.65392469458731
+                },
+                {
+                    "x": 39.65644601158108,
+                    "y": 7.65392469458731
+                },
+                {
+                    "x": 39.65644601158108,
+                    "y": 85.31654527798615
+                },
+                {
+                    "x": 6.623691105107379,
+                    "y": 85.31654527798615
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

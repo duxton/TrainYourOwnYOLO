@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b80abe9babcca7085c262ce00d379b09",
+        "name": "12_00000_00011.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/12_00000_00011.jpg",
+        "size": {
+            "width": 33,
+            "height": 37
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xA9jriLmk",
+            "type": "RECTANGLE",
+            "tags": [
+                "Priority road"
+            ],
+            "boundingBox": {
+                "height": 21.048313659106867,
+                "width": 21.648230274108677,
+                "left": 6.245377688063789,
+                "top": 9.08410600890178
+            },
+            "points": [
+                {
+                    "x": 6.245377688063789,
+                    "y": 9.08410600890178
+                },
+                {
+                    "x": 27.893607962172464,
+                    "y": 9.08410600890178
+                },
+                {
+                    "x": 27.893607962172464,
+                    "y": 30.132419668008648
+                },
+                {
+                    "x": 6.245377688063789,
+                    "y": 30.132419668008648
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

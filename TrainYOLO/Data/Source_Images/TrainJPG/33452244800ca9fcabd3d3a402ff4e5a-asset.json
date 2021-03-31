@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "33452244800ca9fcabd3d3a402ff4e5a",
+        "name": "29_00000_00004.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/29_00000_00004.jpg",
+        "size": {
+            "width": 31,
+            "height": 41
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HlnHJkcRp",
+            "type": "RECTANGLE",
+            "tags": [
+                "Children crossing"
+            ],
+            "boundingBox": {
+                "height": 28.021150271422528,
+                "width": 18.452468129750844,
+                "left": 7.434915903452281,
+                "top": 9.88716900117307
+            },
+            "points": [
+                {
+                    "x": 7.434915903452281,
+                    "y": 9.88716900117307
+                },
+                {
+                    "x": 25.887384033203126,
+                    "y": 9.88716900117307
+                },
+                {
+                    "x": 25.887384033203126,
+                    "y": 37.9083192725956
+                },
+                {
+                    "x": 7.434915903452281,
+                    "y": 37.9083192725956
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

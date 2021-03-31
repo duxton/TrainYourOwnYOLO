@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "e3287f186e133f2618b77bb8319520cd",
+        "name": "26_00004_00008.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/26_00004_00008.jpg",
+        "size": {
+            "width": 43,
+            "height": 38
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "gvVQ2lgMY",
+            "type": "RECTANGLE",
+            "tags": [
+                "Traffic signals"
+            ],
+            "boundingBox": {
+                "height": 19.620659271957198,
+                "width": 20.087839780731755,
+                "left": 13.466201451711276,
+                "top": 8.928567981817384
+            },
+            "points": [
+                {
+                    "x": 13.466201451711276,
+                    "y": 8.928567981817384
+                },
+                {
+                    "x": 33.55404123244303,
+                    "y": 8.928567981817384
+                },
+                {
+                    "x": 33.55404123244303,
+                    "y": 28.549227253774582
+                },
+                {
+                    "x": 13.466201451711276,
+                    "y": 28.549227253774582
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

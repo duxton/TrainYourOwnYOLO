@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "13a08d19e2dabea7091d4ce5db36251f",
+        "name": "25_00001_00002.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/25_00001_00002.jpg",
+        "size": {
+            "width": 64,
+            "height": 62
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "W0xBCUtUE",
+            "type": "RECTANGLE",
+            "tags": [
+                "Road work"
+            ],
+            "boundingBox": {
+                "height": 49.896838553470545,
+                "width": 50.45154859050445,
+                "left": 9.840558543521265,
+                "top": 7.0084264051926395
+            },
+            "points": [
+                {
+                    "x": 9.840558543521265,
+                    "y": 7.0084264051926395
+                },
+                {
+                    "x": 60.29210713402571,
+                    "y": 7.0084264051926395
+                },
+                {
+                    "x": 60.29210713402571,
+                    "y": 56.90526495866318
+                },
+                {
+                    "x": 9.840558543521265,
+                    "y": 56.90526495866318
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

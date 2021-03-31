@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6fa7bead2de066744dd350dc783427a0",
+        "name": "30_00014_00004.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/30_00014_00004.jpg",
+        "size": {
+            "width": 32,
+            "height": 30
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VvFealcTF",
+            "type": "RECTANGLE",
+            "tags": [
+                "Beware of ice/snow"
+            ],
+            "boundingBox": {
+                "height": 18.617326153919816,
+                "width": 19.769652852610154,
+                "left": 6.7785541636733715,
+                "top": 5.683973427325396
+            },
+            "points": [
+                {
+                    "x": 6.7785541636733715,
+                    "y": 5.683973427325396
+                },
+                {
+                    "x": 26.548207016283524,
+                    "y": 5.683973427325396
+                },
+                {
+                    "x": 26.548207016283524,
+                    "y": 24.301299581245214
+                },
+                {
+                    "x": 6.7785541636733715,
+                    "y": 24.301299581245214
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

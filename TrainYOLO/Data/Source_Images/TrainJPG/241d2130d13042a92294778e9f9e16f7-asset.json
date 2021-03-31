@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "241d2130d13042a92294778e9f9e16f7",
+        "name": "28_00004_00029.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/28_00004_00029.jpg",
+        "size": {
+            "width": 85,
+            "height": 76
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "3MBwpLmzx",
+            "type": "RECTANGLE",
+            "tags": [
+                "Pedestrians"
+            ],
+            "boundingBox": {
+                "height": 60.39300487233865,
+                "width": 66.9307129742348,
+                "left": 10.966822097290596,
+                "top": 7.849785373208472
+            },
+            "points": [
+                {
+                    "x": 10.966822097290596,
+                    "y": 7.849785373208472
+                },
+                {
+                    "x": 77.8975350715254,
+                    "y": 7.849785373208472
+                },
+                {
+                    "x": 77.8975350715254,
+                    "y": 68.24279024554713
+                },
+                {
+                    "x": 10.966822097290596,
+                    "y": 68.24279024554713
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

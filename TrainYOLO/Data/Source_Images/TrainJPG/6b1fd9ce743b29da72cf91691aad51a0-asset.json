@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "6b1fd9ce743b29da72cf91691aad51a0",
+        "name": "10_00018_00026.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/10_00018_00026.jpg",
+        "size": {
+            "width": 75,
+            "height": 76
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "_RTrON7m6",
+            "type": "RECTANGLE",
+            "tags": [
+                "No passing for vehicle"
+            ],
+            "boundingBox": {
+                "height": 52.790658765720764,
+                "width": 66.23396784622476,
+                "left": 4.277626179760287,
+                "top": 13.512110023381641
+            },
+            "points": [
+                {
+                    "x": 4.277626179760287,
+                    "y": 13.512110023381641
+                },
+                {
+                    "x": 70.51159402598505,
+                    "y": 13.512110023381641
+                },
+                {
+                    "x": 70.51159402598505,
+                    "y": 66.3027687891024
+                },
+                {
+                    "x": 4.277626179760287,
+                    "y": 66.3027687891024
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

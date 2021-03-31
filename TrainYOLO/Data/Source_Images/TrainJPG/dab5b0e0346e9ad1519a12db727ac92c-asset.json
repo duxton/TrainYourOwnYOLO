@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "dab5b0e0346e9ad1519a12db727ac92c",
+        "name": "22_00011_00022.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/22_00011_00022.jpg",
+        "size": {
+            "width": 56,
+            "height": 57
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "3OjAOGB-I",
+            "type": "RECTANGLE",
+            "tags": [
+                "Bumpy road"
+            ],
+            "boundingBox": {
+                "height": 43.55521438801252,
+                "width": 40.689123712805355,
+                "left": 9.73810207818997,
+                "top": 6.526724155881919
+            },
+            "points": [
+                {
+                    "x": 9.73810207818997,
+                    "y": 6.526724155881919
+                },
+                {
+                    "x": 50.42722579099532,
+                    "y": 6.526724155881919
+                },
+                {
+                    "x": 50.42722579099532,
+                    "y": 50.08193854389444
+                },
+                {
+                    "x": 9.73810207818997,
+                    "y": 50.08193854389444
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

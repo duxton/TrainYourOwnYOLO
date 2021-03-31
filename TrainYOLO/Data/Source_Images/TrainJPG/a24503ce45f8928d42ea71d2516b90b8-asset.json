@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a24503ce45f8928d42ea71d2516b90b8",
+        "name": "06_00003_00007.jpg",
+        "path": "file:/Users/duxtonlimyeecheng/Documents/Year%203%20Final%20Year/Final%20Year%20Project/TrainYOLO/TrainYourOwnYOLO/TrainJPG/06_00003_00007.jpg",
+        "size": {
+            "width": 33,
+            "height": 35
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "kkkPxcI4Z",
+            "type": "RECTANGLE",
+            "tags": [
+                "End of speed limit"
+            ],
+            "boundingBox": {
+                "height": 25.750435195003273,
+                "width": 21.422090243156656,
+                "left": 7.446014040598761,
+                "top": 7.090645342973938
+            },
+            "points": [
+                {
+                    "x": 7.446014040598761,
+                    "y": 7.090645342973938
+                },
+                {
+                    "x": 28.868104283755414,
+                    "y": 7.090645342973938
+                },
+                {
+                    "x": 28.868104283755414,
+                    "y": 32.84108053797721
+                },
+                {
+                    "x": 7.446014040598761,
+                    "y": 32.84108053797721
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
